@@ -15,7 +15,7 @@ class Genre
   end
   
   def songs
-    Song.genre
+    songs.
   end
   
   def artists
