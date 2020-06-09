@@ -20,7 +20,7 @@ class Genre
 
   
   def artists
-    songs.collect(&:artist)
+    songs.collect
   end
   
 end
