@@ -24,5 +24,3 @@ class Genre
   end
   
 end
-
-#some_objects.each { |obj| obj.foo }
