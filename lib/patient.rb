@@ -17,7 +17,7 @@ class Patient
     
   end
   
-  def new_appointment(date)
+  def doctors
     
   end
   
