@@ -20,7 +20,9 @@ class Genre
 
   
  def artists
-    songs.map(&:artist)
+    songs.collect {|song| song.artist == self}
   end
   
 end
+
+#some_objects.each { |obj| obj.foo }
