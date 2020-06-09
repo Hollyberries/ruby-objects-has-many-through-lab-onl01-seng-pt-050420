@@ -15,12 +15,4 @@ class Song
     @@all
   end
   
-  def songs
-    
-  end
-  
-  def artists
-     
-  end
-  
 end
