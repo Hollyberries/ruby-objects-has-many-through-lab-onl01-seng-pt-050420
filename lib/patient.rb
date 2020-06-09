@@ -21,4 +21,8 @@ class Patient
     
   end
   
+  def patients
+    
+  end
+  
 end
